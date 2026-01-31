@@ -3,6 +3,7 @@
 This repository is the official implementation of our research paper:
 
 > **Generating Diverse TSP Tours via a Combination of Graph Pointer Network and Dispersion**
+
 > Hao-Tsung Yang, Ssu-Yuan Lo, Kuan-Lun Chen, Ching-Kai Wang.
 > *National Central University (NCU), Taiwan.*
 
